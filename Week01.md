@@ -2,7 +2,7 @@
 
 Hello! Welcome to COMP39/9900 Computer Science/IT Project! :))
 
-## Introductions
+## 👋 Introductions
 
 ```
 Name: Oliver Xu (z5310488@ad.unsw.edu.au)
@@ -12,13 +12,19 @@ Experience: Full stack web developement, CSE Tutor since 2021 - COMP1531 and COM
 ```
 Now your turn! What are you hoping to gain out of this course?
 
-## Course Info
+## ℹ️ Course Info
 
 - All course content will be hosted on [Moodle](https://moodle.telt.unsw.edu.au/course/view.php?id=84384)
 - Communication will be via Microsoft Teams (which you will soon/should have been added to)
 - You can get help via the [Edstem forum](https://edstem.org/au/courses/16599/discussion/)
 
-## Things to do today!
+## 👨‍👩‍👦 Expectations
+
+- Tute/lab attendance is **mandatory**
+- Be a good human i.e. team member
+- Reach out *early* if there are issues with your team.
+
+## ✅ Things to do today!
 
 ### Team Formation 
 - [ ] Form a team of 5-6 members (ideally 6)
@@ -35,7 +41,7 @@ Now your turn! What are you hoping to gain out of this course?
 
 > You must select *7 preferences* and give justification as to why your team is qualified for each one. Your team will be allocated a project based on your team’s experiences and skillsets. We have a limited amount of teams that can undertake a specific project.
 
-## Action Items for Week 2
+## ⭕ Action Items for Week 2
 - [ ] Get familiar with the course assessments
 - [ ] Work on your Software Fundamentals Lab (5%, due in Week 3 Lab)
 - [ ] Establish communications with your client
