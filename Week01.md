@@ -16,6 +16,7 @@ Now your turn! What are you hoping to gain out of this course?
 - All course content will be hosted on [Moodle](https://moodle.telt.unsw.edu.au/course/view.php?id=86768)
 - Communication will be via Microsoft Teams (which you will soon/should have been added to)
 - You can get help via the [Edstem forum](https://edstem.org/au/courses/19150/discussion/)
+- Tutorial + help session on Thursday 4-6pm at Goldstein G09.
 
 ## 👨‍👩‍👦 Expectations
 
@@ -39,7 +40,18 @@ Now your turn! What are you hoping to gain out of this course?
 - [ ] Read through the list of projects that you can choose from on Moodle
 - [ ] Fill out the Project Selection Questionnaire (only ONE member i.e. Scrum Master should submit this)
 
-> You must select *3 project type preferences (e.g. web app, ML, cybersecurity)* and give justification as to why your team is qualified for each one. Your team will be allocated a project based on your team’s experiences and skillsets. We have a limited amount of teams that can undertake a specific project.
+> You must select *3 project category preferences (e.g. web app, ML, cybersecurity)* and give justification as to why your team is qualified for each one. Your team will be allocated a project based on your team’s experiences and skillsets. We have a limited amount of teams that can undertake a specific project.
+
+**Project Categories:**
+```
+Web App - 1, 4, 9, 10, 18, 19, 22, 28, 29, 31, 34, 36, 38, 41, 46, 47, 50, 51, 52
+Computer Vision and Bioinformatics - 2, 3, 23, 24, 32, 37, 44, 49
+Big Data/Data science - 5, 17, 20, 21, 35, 39, 40
+Machine Learning and Robotics - 6, 7, 12, 13, 14, 16, 25, 26, 27, 33, 43, 45
+Mobile App and IoT - 8, 30, 42, 48
+VR - 11
+Cybersecurity - 15
+```
 
 ## ⭕ Action Items for Week 2
 - [ ] Get familiar with the course assessments
