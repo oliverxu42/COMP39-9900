@@ -7,7 +7,7 @@ Hello! Welcome to COMP39/9900 Computer Science/IT Project! :))
 ```
 Name: Oliver Xu (z5310488@ad.unsw.edu.au)
 Degree + year: 5th year Aerospace Engineering/Computer Science
-Experience: Full stack web developement, CSE Tutor since 2021 - COMP1531 and COMP6080. Completed COMP3900 in 24T1!
+Experience: Full stack web development, CSE Tutor since 2021 - COMP1531 and COMP6080. Completed COMP3900 in 24T1!
 ```
 Now your turn! What are you hoping to gain out of this course?
 
@@ -23,6 +23,7 @@ Now your turn! What are you hoping to gain out of this course?
 - Tute/lab attendance is **mandatory**
 - Be a good human i.e. team member
 - Reach out *early* if there are issues with your team.
+- We are not "on call" 24/7.
 
 ## ✅ Things to do today!
 
