@@ -18,7 +18,7 @@ Here is what will be expected of you during the demo:
   - Penalties: Presentations that are too short and lack depth may be penalised.
   - Hard Limit: The presentation will be cut off at 12 minutes.
 - **Preparation:**
-  - Submission Deadline: Submit a recording of your demo by **Sunday, Week 5 (30 June) at 9 pm.**
+  - Submission Deadline: Submit a recording of your demo by **Sunday, Week 5 at 9 pm.**
   - I recommend teams just set up a phone to record their in person demo and upload that video.
 - **Team Participation:**
   - Speaking Requirements:
@@ -30,7 +30,7 @@ Here is what will be expected of you during the demo:
 
 ### Choosing a time slot!
 
-- You will not be required to attend next week's tutorial outside of your allocated demo time. 
+- You must attend for the full duration of all teams' demos.
 - We will have four 30 min time slots.
 - Let's choose your time slots: https://wheelofnames.com/
 
