@@ -1,6 +1,6 @@
 # Week 7 🥝
 
-Hello, hope you had a relaxing and productive flex week! Welcome to back week 7!
+Hello, hope you all had a relaxing and productive flex week! Welcome back to week 7!
 
 ## 🛎️ Week 6 Re-cap 
 
