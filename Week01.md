@@ -14,7 +14,7 @@ Now your turn! What are you hoping to gain out of this course?
 ## ℹ️ Course Info
 
 - All course content will be hosted on [Moodle](https://moodle.telt.unsw.edu.au/course/view.php?id=86768)(https://moodle.telt.unsw.edu.au/course/view.php?id=89051)
-- Communication will be via Microsoft Teams (which you will soon/should have been added to)
+- Communication will be via Microsoft Teams
 - You can get help via the [Edstem forum](https://edstem.org/au/courses/21324/discussion/)
 
 ## 👨‍👩‍👦 Expectations
@@ -42,6 +42,7 @@ Now your turn! What are you hoping to gain out of this course?
 - [ ] Fill out the Project Selection Questionnaire (only ONE member i.e. Scrum Master should submit this)
 
 ## ⭕ Action Items for Week 2
+- [ ] Establish communications with your group, decide on meeting times, discuss skillsets, take meeting minutes.
 - [ ] Get familiar with the course assessments
 - [ ] Work on your Fundamentals Primers (5%, due in Week 3 Lab)
 - [ ] Familarise yourself with your project once assigned!
