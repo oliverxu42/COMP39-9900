@@ -2,6 +2,11 @@
 
 Welcome to week 3!
 
+## 📝 Primers marking
+
+- We will be marking off your fundamental primer activities
+- Please get **everything ready** to show me when I come around.
+
 ## ✅ Things to do today!
 
 1. Continue working on your project **proposal report** (it's due Sunday 9pm, Week 3!)
