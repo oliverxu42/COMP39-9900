@@ -20,11 +20,13 @@ Here is what will be expected of you during the demo:
 - **Preparation:**
   - Submission Deadline: Submit a recording of your demo by **Sunday, Week 5 at 9 pm.**
   - I recommend teams just set up a phone to record their in person demo and upload that video.
+  - Online labs can just use the screen recording.
 - **Team Participation:**
   - Speaking Requirements:
     - Multiple team members must speak.
     - At least 2-3 people should have relatively equal speaking time.
     - Not everyone needs to speak, but presence is mandatory for all team members during the demo.
+    - Online: Cameras must be on - 📷 **No camera = No attendance!** 
 
 > **⚠ Absence during the demo will result in a mark of 0.**
 
