@@ -6,16 +6,16 @@ Hello! Welcome to COMP39/9900 Computer Science/IT Project! :))
 
 ```
 Name: Oliver Xu (z5310488@ad.unsw.edu.au)
-Degree + year: 6th year Aerospace Engineering/Computer Science
+Degree + year: Graduated Aerospace Engineering/Computer Science
 Experience: Full stack web development, CSE Tutor since 2021 - COMP1531 and COMP6080. Completed COMP3900 in 24T1!
 ```
-Now your turn! What are you hoping to gain out of this course?
+Introduce yourself: name, degree, skills and experiences e.g. web development, security, UI/UX, algorithms, ML etc.
 
 ## ℹ️ Course Info
 
-- All course content will be hosted on [Moodle](https://moodle.telt.unsw.edu.au/course/view.php?id=86768)(https://moodle.telt.unsw.edu.au/course/view.php?id=89051)
-- Communication will be via Microsoft Teams
-- You can get help via the [Edstem forum](https://edstem.org/au/courses/21324/discussion/)
+- All course content will be hosted on [Moodle](https://moodle.telt.unsw.edu.au/course/view.php?id=91927)(https://moodle.telt.unsw.edu.au/course/view.php?id=89051)
+- Communication will be via Microsoft Teams (which will be set up soon!)
+- You can get help via the [Edstem forum](https://edstem.org/au/courses/24654/discussion)
 
 ## 👨‍👩‍👦 Expectations
 
@@ -28,7 +28,7 @@ Now your turn! What are you hoping to gain out of this course?
 ## ✅ Things to do today!
 
 ### Team Formation 
-- [ ] Form a team of 5-6 members (ideally 6, NO groups of 4 or less! It is YOUR responsibility to ensure that you are in a group by the end of the term, **failure** to do so will mean that you are **no longer** able to continue with the course. Please take the initiative to use the Edstem, Group Finding channel and reach out to me if you need help finding a group.)
+- [ ] Form a team of 5-6 members (ideally 6, NO groups of 4 or less! It is YOUR responsibility to ensure that you are in a group by the end of the week, **failure** to do so will mean that you are **no longer** able to continue with the course. Please take the initiative to use the Edstem, Group Finding channel and reach out to me if you need help finding a group.)
 - [ ] Decide on a Scrum Master (their role is to manage the project and play a leadership role, they contribute *slightly* less code)
 - [ ] Assign a Product Owner (their primary role is to manage communications with the client)
 - [ ] Register your team on Moodle
