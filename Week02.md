@@ -24,14 +24,14 @@ By now you should all have...
 
 ## ✅ Things to do today!
 
-1. Start working on your project **proposal report** (it's due Sunday 9pm, Week 3!)
+1. Start working on your project **proposal report** (it's due Wednesday 11:59 am, Week 3!)
 2. Continue working (ideally finish) your software engineering **primers** (due Week 3 lab, must **show me your work!**)
 3. Get confident with the **agile methodology** and how **scrum** works.
 
 ## ⭕ Action Items for Week 3
 
 - [x] Finish software engineering primers.
-- [x] Finalise your proposal report (due Sunday).
-- [x] Attend the weekly Industry Workshops (Thursdays 5-7pm @ Old Main Building G31, more info [here](https://edstem.org/au/courses/21324/discussion/2435795))
+- [x] Finalise your proposal report (due Wednesday).
+- [x] Attend the weekly Industry Workshops.
 - [x] Get prepared to start your first sprint!
 
