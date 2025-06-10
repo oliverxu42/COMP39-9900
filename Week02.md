@@ -24,9 +24,10 @@ By now you should all have...
 
 ## ✅ Things to do today!
 
-1. Start working on your project **proposal report** (it's due Wednesday 11:59 am, Week 3!)
-2. Continue working (ideally finish) your software engineering **primers** (due Week 3 lab, must **show me your work!**)
-3. Get confident with the **agile methodology** and how **scrum** works.
+1. Come up with a **group alias** (can be anything, just helps when clients are trying to identify groups) 
+2. Start working on your project **proposal report** (it's due Wednesday 11:59 am, Week 3!)
+3. Continue working (ideally finish) your software engineering **primers** (due Week 3 lab, must **show me your work!**)
+4. Get confident with the **agile methodology** and how **scrum** works.
 
 ## ⭕ Action Items for Week 3
 
