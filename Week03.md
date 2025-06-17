@@ -9,7 +9,7 @@ Welcome to week 3!
 
 ## ✅ Things to do today!
 
-1. Continue working on your project **proposal report** (it's due Sunday 9pm, Week 3!)
+1. Continue working on your project **proposal report** (it's due Saturday 11:59 am!)
 2. Get your software engineering **primers** marked off by me today!
 3. Clarify anything you are unsure about for the proposal.
 
