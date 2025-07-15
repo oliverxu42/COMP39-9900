@@ -11,7 +11,6 @@ By now you should all have...
 
 ## ✅ Things to do today!
 - Continue working on your user stories for sprint 2
-- Complete the **interim peer assessment** during this lab. ⚠ This is compulsory!
 
 ## ⭕ Action Items for Week 8
 - [x] Finish off your 2nd sprint!
